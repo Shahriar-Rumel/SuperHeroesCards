@@ -9,6 +9,7 @@ body{
     background-color: rgba(7, 6, 6, 0.849);
     width:100vw;
     height:450vh;
+    overflow-x:hidden;
 }
 
 h1{
